@@ -10,7 +10,7 @@
   "response_types": [
     "code"
   ],
-  "scope": "atproto transition:generic",
+  "scope": "atproto transition:generic transition:chat.bsky",
   "redirect_uris": [
     "io.github.ezezzap:/oauth/callback"
   ],
