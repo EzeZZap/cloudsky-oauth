@@ -1,0 +1,19 @@
+{
+  "client_id": "https://ezezzap.github.io/cloudsky-oauth/oauth-client-metadata.json",
+  "application_type": "native",
+  "client_name": "Cloudsky",
+  "client_uri": "https://ezezzap.github.io/cloudsky-oauth/",
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "scope": "atproto transition:generic",
+  "redirect_uris": [
+    "io.github.ezezzap:/oauth/callback"
+  ],
+  "token_endpoint_auth_method": "none",
+  "dpop_bound_access_tokens": true
+}
